@@ -1,7 +1,3 @@
-# Problema 3 - Epidemia en una ciudad (modelo SIS)
-# dI/dt = beta*(10000 - I)*I - gamma*I
-# Se simula con scipy.integrate.odeint
-
 import numpy as np
 from scipy.integrate import odeint
 import matplotlib.pyplot as plt
