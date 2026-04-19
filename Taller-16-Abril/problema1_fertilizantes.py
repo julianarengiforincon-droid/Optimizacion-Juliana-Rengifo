@@ -1,4 +1,3 @@
-
 import pulp
 
 # Crear el problema de maximizacion
