@@ -1,6 +1,3 @@
-# Problema 1 - Mezcla de fertilizantes
-# Maximizar ganancia semanal de fertilizantes F1 y F2
-# usando programacion lineal con PuLP
 
 import pulp
 
