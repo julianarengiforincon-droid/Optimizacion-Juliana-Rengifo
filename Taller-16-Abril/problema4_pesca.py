@@ -1,7 +1,3 @@
-# Problema 4 - Modelo logistico de pesca
-# P(n+1) = Pn + r*Pn*(1 - Pn/K) - H
-# Se simula por anos y se grafican los equilibrios
-
 import numpy as np
 import matplotlib.pyplot as plt
 
